@@ -1,1 +1,2 @@
-None
+a = 'abc'
+print(len(a))
